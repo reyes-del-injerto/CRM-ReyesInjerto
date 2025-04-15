@@ -1,0 +1,9 @@
+{
+  "require": {
+    "guzzlehttp/guzzle": "^7.8",
+    "mpdf/mpdf": "^8.1",
+    "aws/aws-sdk-php": "^3.298",
+    "google/auth": "^1.33",
+    "phpoffice/phpspreadsheet": "^3.5"
+  }
+}

@@ -1,0 +1,50 @@
+.header_invoices {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+.accions_transction {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#totales {
+  margin-top: 3rem;
+}
+
+.totales_div {
+  border: 1px;
+}
+
+#datepicker {
+  border: none;
+  outline: transparent;
+  border-radius: 0.4rem;
+  margin: 1.3rem 0rem;
+}
+
+.ui-datepicker-trigger {
+  display: none;
+}
+
+.dropdown {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.ui-datepicker {
+  background-color: #fff;
+  opacity: 1;
+  z-index: 1000;
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+
+.img_firma{
+  margin: 1rem 0rem;
+}

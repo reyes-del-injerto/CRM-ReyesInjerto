@@ -1,0 +1,214 @@
+
+/* Estilos generales para #forgrid */
+#forgrid {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: 1fr 1fr; /* Crea dos columnas de igual tamaño */
+}
+
+
+
+#titles {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#titles h4 {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+#period {
+    /*  position: relative;
+    left: 91%; */
+    margin-bottom: 1rem;
+}
+
+.tables {
+    margin-top: 1rem;
+}
+
+#by_clinic {
+    width: 100%;
+}
+
+
+.minioptions {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.minioptions span {
+    font-size: 1rem;
+}
+
+.options>div:last-child {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+
+
+/* Estilos para el contenedor principal */
+.contenedor_principal {
+    display: grid; /* Usamos CSS Grid */
+    grid-template-columns: repeat(3, 1fr); /* 3 columnas de igual tamaño */
+    gap: 1rem; /* Espaciado entre los elementos */
+    margin-bottom: 1rem; /* Espaciado en la parte inferior */
+}
+
+.contendor_sub_info {
+    display: grid; /* Usamos CSS Grid */
+    grid-template-columns: repeat(3, 1fr); /* 3 columnas de igual tamaño */
+    gap: 1rem; /* Espaciado entre los elementos */
+    margin-bottom: 1rem; /* Espaciado en la parte inferior */
+}
+
+#by_clinic p {
+    color: #1570DA;
+}
+#by_clinic h5 {
+   font-weight: 600;
+   font-size: 1.1rem;
+}
+
+
+
+@media (max-width: 768px) {
+    .contenedor_principal {
+        /* Puedes ajustar los estilos según sea necesario para tablets */
+      flex-wrap: wrap;
+        gap: 0.5rem;
+       
+        justify-content: space-evenly;
+        
+    }
+
+  
+
+
+    .contenedor_grafica{
+
+        
+        display: flex;
+        justify-content: center;
+    }
+    .options{
+        width: 100%;
+    }
+}
+
+@media (max-width: 540px) {
+    .contenedor_principal {
+     
+       
+        flex-direction: column;
+        
+    }
+ 
+
+    .contenedor_tabla{
+        overflow-x: scroll;
+    }
+    
+
+ 
+}
+
+
+
+
+.card_gral {
+    background-color: #eee;
+    ;
+    padding: 1.2rem;
+
+
+}
+
+
+
+
+
+.card_gral h4 {
+    font-weight: 400;
+    margin: 0%;
+}
+
+.medium {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 2.5rem;
+    font-weight: 700;
+
+}
+
+.card_footer {
+    display: flex;
+    align-items: center;
+}
+
+.card_footer p {
+    margin: 0rem;
+
+
+}
+
+.card_footer span {
+    font-weight: 700;
+
+}
+
+
+
+.leads_titulo {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 1.2rem 0rem;
+}
+
+.leads_titulo:nth-child(1){
+    font-size: 1.3rem;
+    margin-bottom: 1.2rem;
+}
+
+.vendedoras {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid;
+    padding: .8rem;
+
+
+}
+
+.row_style {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid;
+    margin-top: 1rem;
+}
+
+
+
+.vendedoras span {
+    font-weight: 300;
+    font-size: .8rem;
+}
+
+.vendedoras p {
+    color: #1570DA;
+    font-weight: 500;
+    margin: 0rem;
+}
+
+.contenedor_grafica {
+    padding: .6rem;
+}

@@ -1,0 +1,41 @@
+.files .card {
+  border: transparent;
+  -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+.files .card-file > .btnGroupFile {
+  display: none;
+}
+.files .card-file,
+.btnGroupFile {
+  transition: all 0.6s ease-in-out !important;
+}
+.files .card-file:hover .media {
+  -webkit-filter: blur(7px);
+  filter: blur(7px);
+}
+.files .card-file:hover .btnGroupFile {
+  cursor: pointer;
+  display: flex;
+  margin-top: -40px;
+}
+
+.files .btnGroupFile > .btn {
+  background: #2a2a2a;
+  color: #ffffff;
+  border-radius: 20px;
+  opacity: 0.7;
+}
+
+.files .btn,
+.fa {
+  transition: all 0.3s ease-in-out;
+}
+
+.files .btn:hover {
+  opacity: 0.9;
+}
+
+.files .btn:hover > i {
+  font-size: 1.25rem;
+}

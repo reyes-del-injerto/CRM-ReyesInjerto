@@ -1,0 +1,50 @@
+- Registro actualizado correctamente para: Agua Oxigenada 1Litro (ID: 1474) - Nuevo stock: 25
+- Registro actualizado correctamente para: Aguja #30 Cafe (ID: 1476) - Nuevo stock: 464
+- Registro actualizado correctamente para: Bandita Adhesiva Redonda (ID: 1482) - Nuevo stock: 182
+- Registro actualizado correctamente para: Bultos Quirurgicos (ID: 1483) - Nuevo stock: 50
+- Registro actualizado correctamente para: Bata para pacientes Desechables (ID: 1484) - Nuevo stock: 79
+- Registro actualizado correctamente para: Bolsa Esteril Mediana (ID: 1485) - Nuevo stock: 400
+- Registro actualizado correctamente para: Cinta Testigo  (ID: 1488) - Nuevo stock: 10
+- Registro actualizado correctamente para: Compresas  (ID: 1489) - Nuevo stock: 180
+- Registro actualizado correctamente para: Cubrebocas 100 piezas (ID: 1490) - Nuevo stock: 450
+- Registro actualizado correctamente para: Equipo de Venoclisis Micro (ID: 1492) - Nuevo stock: 20
+- Registro actualizado correctamente para: Guantes No Esteril CH (ID: 1493) - Nuevo stock: 1290
+- Registro actualizado correctamente para: Guantes  Quirurgicos 6 1/2 (ID: 1497) - Nuevo stock: 87
+- Registro actualizado correctamente para: Guantes Quirurgicos 7 (ID: 1498) - Nuevo stock: 154
+- Registro actualizado correctamente para: Glutaraldehido 5 Litros (ID: 1500) - Nuevo stock: 4
+- Registro actualizado correctamente para: Gasas 10x10 No esteril (ID: 1501) - Nuevo stock: 7234
+- Registro actualizado correctamente para: Yodopovidona 3.5 Litros (ID: 1502) - Nuevo stock: 3
+- Registro actualizado correctamente para: Fundas para camilla  (ID: 1503) - Nuevo stock: 151
+- Registro actualizado correctamente para: Jabon Quirurgico 3.85 Litros (ID: 1504) - Nuevo stock: 4
+- Registro actualizado correctamente para: Jeringa 1CC (ID: 1505) - Nuevo stock: 626
+- Registro actualizado correctamente para: Jeringa 3 CC (ID: 1506) - Nuevo stock: 303
+- Registro actualizado correctamente para: Jeringa 10 CC (ID: 1508) - Nuevo stock: 395
+- Registro actualizado correctamente para: Lidocaina 2% (ID: 1509) - Nuevo stock: 160
+- Registro actualizado correctamente para: Cinta Transpor 5 (ID: 1512) - Nuevo stock: 15
+- Registro actualizado correctamente para: Solucion Cloruro Sodio 250 ml (ID: 1519) - Nuevo stock: 143
+- Registro actualizado correctamente para: Solucion harttman de 500ml (ID: 1521) - Nuevo stock: 10
+- Registro actualizado correctamente para: Tubos Vacutainer verde 100pz (ID: 1526) - Nuevo stock: 300
+- Registro actualizado correctamente para: Epinefrinas  (ID: 1528) - Nuevo stock: 171
+- Registro actualizado correctamente para: Botas Quirurgicas (ID: 1533) - Nuevo stock: 522
+- Registro actualizado correctamente para: Cloro gel (ID: 1557) - Nuevo stock: 30
+- Registro actualizado correctamente para: Tela adhesiva #5 cm (ID: 1588) - Nuevo stock: 32
+- Registro actualizado correctamente para: Bote de microdacyn (ID: 1672) - Nuevo stock: 16
+- Registro actualizado correctamente para: Talco para bebe (ID: 1677) - Nuevo stock: 2
+- Registro actualizado correctamente para: RPBI bolsas (ID: 1698) - Nuevo stock: 208
+- Registro actualizado correctamente para: Bephanten (ID: 1702) - Nuevo stock: 15
+- Registro actualizado correctamente para: Shampo Mustela (ID: 1703) - Nuevo stock: 14
+- Registro actualizado correctamente para: DIMENHIDRINATO (ID: 1707) - Nuevo stock: 35
+- Registro actualizado correctamente para: OMEPRAZOL (ID: 1715) - Nuevo stock: 182
+- Registro actualizado correctamente para: CEFALEXINA (ID: 1717) - Nuevo stock: 462
+- Registro actualizado correctamente para: DEXAMETASONA (ID: 1727) - Nuevo stock: 212
+- Registro actualizado correctamente para: METOCLOPRAMIDA (ID: 1728) - Nuevo stock: 59
+- Registro actualizado correctamente para: KETOROLACO SUBLIBINGUAL (ID: 1729) - Nuevo stock: 84
+- Registro actualizado correctamente para: DESKETOPROFENO (ID: 1733) - Nuevo stock: 222
+- Registro actualizado correctamente para: DEXAMETASONA (ID: 1735) - Nuevo stock: 74
+- Registro actualizado correctamente para: ETAMSILATO/SICYNONE (ID: 1740) - Nuevo stock: 75
+- Registro actualizado correctamente para: KETOROLACO TABLETAS (ID: 1751) - Nuevo stock: 130
+- Registro actualizado correctamente para: Tela adhesiva 2.5cm, 10mts (ID: 1841) - Nuevo stock: 23
+- Registro actualizado correctamente para: CANULA NASAL PARA OXIGENO (ID: 1843) - Nuevo stock: 4
+- Registro actualizado correctamente para: Tiras reactivas - Contour Plus (ID: 1849) - Nuevo stock: 100
+- Registro actualizado correctamente para: Tiras reactivas - Accu Check (ID: 1850) - Nuevo stock: 100
+- Registro actualizado correctamente para: Bolsa esteril pequeña (ID: 1852) - Nuevo stock: 730

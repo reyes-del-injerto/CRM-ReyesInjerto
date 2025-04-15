@@ -1,0 +1,3 @@
+<p>
+    vista inventario
+</p>

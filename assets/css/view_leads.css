@@ -1,0 +1,66 @@
+#filter_badges_container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin: 15px;
+  }
+  
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    background-color: #007bff;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 14px;
+  }
+  
+  .badge .remove-badge {
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .badge .remove-badge:hover {
+    color: #ff0000;
+  }
+  
+  .remove-badge {
+    font-weight: bold;
+    margin-left: 5px;
+  }
+  
+  .filterDropDown {
+    display: none;
+  }
+  
+  .selectBox {
+    cursor: pointer;
+  }
+  
+  .selectBox:hover + .filterDropDown {
+    display: block;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border: none;
+    color: white;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  
+  .btn-link {
+    color: #007bff;
+  }
+  
+  .btn-link:hover {
+    color: #0056b3;
+  }
+  
+  .subject_t {
+    font-weight: 800 !important;
+  }
+  

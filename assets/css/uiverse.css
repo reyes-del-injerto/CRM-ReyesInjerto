@@ -1,0 +1,161 @@
+/* From Uiverse.io by andrew-demchenk0 */ 
+.card_medical__actions{
+  display: flex;
+  justify-content: space-between;
+  opacity: .4;
+}
+
+#extraaa{
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+
+}
+#clean_firma{
+    color: black !important;
+    background-color: black !important;
+}
+.button_ui {
+    position: relative;
+    width: 150px;
+    height: 40px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    border: 1px solid #34974d;
+    background-color: #3aa856;
+    margin-top: 1.4rem !important;
+  }
+  
+  .button_ui, .button_ui__icon, .button_ui__text {
+    transition: all 0.3s;
+  }
+  
+  .button_ui .button_ui__text {
+    transform: translateX(30px);
+    color: #fff;
+    font-weight: 600;
+  }
+  
+  .button_ui .button_ui__icon {
+    position: absolute;
+    transform: translateX(109px);
+    height: 100%;
+    width: 39px;
+    background-color: #34974d;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .button_ui .svg {
+    width: 30px;
+    stroke: #fff;
+  }
+  
+  .button_ui:hover {
+    background: #34974d;
+  }
+  
+  .button_ui:hover .button_ui__text {
+    color: transparent;
+  }
+  
+  .button_ui:hover .button_ui__icon {
+    width: 148px;
+    transform: translateX(0);
+  }
+  
+  .button_ui:active .button_ui__icon {
+    background-color: #2e8644;
+  }
+  
+  .button_ui:active {
+    border: 1px solid #2e8644;
+  }
+
+
+
+  .notes_medical{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  .modal-content{
+    color: black;
+  }
+  /*Estilos card nota*/
+
+  .card_medical {
+    --border-radius: 0.75rem;
+    --primary-color: #7257fa;
+    --secondary-color: #3c3852;
+    width: 300px;
+    font-family: "Arial";
+    padding: 1rem;
+    cursor: pointer;
+    border-radius: var(--border-radius);
+    background: #f1f1f3;
+    box-shadow: 0px 8px 16px 0px rgb(0 0 0 / 3%);
+    position: relative;
+    margin-top: 2rem;
+  }
+  .card_medica_footer{
+    display: flex;
+   justify-content: space-around;
+  }
+  
+
+  
+  .card_medical .card_medical__content {
+    color: var(--secondary-color);
+    font-size: 0.86rem;
+  }
+  
+  .card_medical .card_medical__title {
+    padding: 0;
+    font-size: 1.3rem;
+    font-weight: bold;
+  }
+  
+  .card_medical .card_medical__date {
+    color: #6e6b80;
+    font-size: 0.8rem;
+  }
+  
+  .card_medical .card_medical__arrow {
+    position: absolute;
+    background: var(--primary-color);
+    padding: 0.23rem;
+    border-top-left-radius: var(--border-radius);
+    border-bottom-right-radius: var(--border-radius);
+    bottom: 0;
+    right: 0;
+    transition: 0.2s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .card_medical svg {
+    transition: 0.2s;
+  }
+  
+  /* hover */
+  .card_medical:hover .card_medical__title {
+    color: var(--primary-color);
+    text-decoration: underline;
+  }
+  
+  .card_medical:hover .card_medical__arrow {
+    background: #111;
+  }
+  
+  .card_medical:hover .card_medical__arrow svg {
+    transform: translateX(3px);
+  }
+
+
+  .sign_space{
+    margin-top: 1rem;
+  }

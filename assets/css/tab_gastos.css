@@ -1,0 +1,177 @@
+
+.container_tg {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.title_tg {
+    text-align: center;
+    color: #333;
+}
+
+.expenses-section_tg {
+    margin-bottom: 20px;
+}
+
+.section-title_tg {
+    color: #007bff;
+}
+
+.expenses-table_tg {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.expenses-table_tg, .table-header_tg, .table-cell_tg {
+    border: 1px solid #ddd;
+}
+
+.table-header_tg, .table-cell_tg {
+    padding: 8px;
+    text-align: left;
+}
+
+.table-header_tg {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+.expenses-table_tg tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.expenses-table_tg tr:hover {
+    background-color: #ddd;
+}
+
+/* alog */
+
+.contedor_cards_principales{
+    display: flex;
+    padding-top: 1rem;
+    justify-content: space-around;
+}
+
+
+.Nomina{
+    margin-top: 1rem;
+}
+
+
+/* From Uiverse.io by rmdhnkhsn */ 
+.card_gastos {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 28px;
+    width: 340px;
+    border-radius: 30px;
+    background: #fff;
+    box-shadow: 0px 0px 14px 0px rgba(192, 192, 192, 0.2);
+    transition: 1s all;
+    overflow: hidden;
+}
+.icon_gastos img {
+    width: 46px;
+}
+.linkMore_gastos img {
+width: 40px;
+}
+.card_gastos::after {
+    content: "";
+    position: absolute;
+    bottom: -30%;
+    right: -30%;
+    width: 120px;
+    height: 120px;
+    background: #23c55e;
+    filter: blur(70px);
+    border-radius: 50%;
+    transition: width 1s, height 1s;
+}
+.card_gastos::before {
+    content: "";
+    position: absolute;
+    bottom: -160%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 0;
+    height: 0;
+    background: #23c55e;
+    filter: blur(70px);
+    border-radius: 50%;
+    transition: width 1s, height 1s;
+}
+.card_gastos:hover::before {
+    bottom: -230%;
+    width: 1000px;
+    height: 1000px;
+    filter: blur(1px);
+}
+.containers_gastos {
+    position: relative;
+}
+.icon_gastos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 56px;
+    height: 56px;
+    border-radius: 6px;
+    background: #e5f6eb;
+}
+.card_gastos:hover .icon_gastos {
+    background: #23c55e;
+    transition: 1s all;
+}
+.card_gastos_gastos:hover .icon_gastos svg,
+.card_gastos_gastos:hover .linkMore_gastos svg {
+    filter: brightness(0) invert(1);
+    transition: 1s all;
+}
+.title_gastos {
+    color: #171d29;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 500;
+    white-space: nowrap;
+    transition: 1s all;
+    margin: 1rem 0;
+}
+.subtitle_gastos {
+    color: #7e8882;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    transition: 1s all;
+}
+.linkMore_gastos {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 0.8rem;
+    color: #072713;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+    text-decoration: none;
+    transition: 1s all;
+    margin-top: 1rem;
+}
+.card_gastos_gastos:hover .title_gastos,
+.card_gastos_gastos:hover .subtitle_gastos,
+.card_gastos_gastos:hover .linkMore_gastos {
+    color: #fff;
+    transition: 1s all;
+}
+
+
+
